@@ -1,0 +1,3 @@
+# Arquivos a serem ignorados pelo Git
+
+dist/*
